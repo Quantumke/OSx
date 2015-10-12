@@ -1,0 +1,15 @@
+.bg{
+   background:url(../img/bg.jpg);
+    width: 100%;
+   height: 540px;
+    background-size: cover;
+}
+
+.tool-bar{
+    height: 30px;
+    width: 100%;
+    position: absolute;
+    top:94%;
+    background-color: transparent;
+    
+}
